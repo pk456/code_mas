@@ -1,2 +1,2 @@
 # code_mas
-本项目的代码实现及标注数据集将在论文被正式接受后通过 GitHub 仓库公开。届时，我们会在本页面更新具体的仓库链接及使用说明，方便研究者复现实验结果、拓展研究方向或进行二次开发。
+The complete code implementation and annotated dataset for this project will be made publicly available via a GitHub repository after the publication of this paper. The repository link and usage instructions will be updated on this page at that time to facilitate researchers in reproducing the experimental results, extending the research, or conducting further development.
